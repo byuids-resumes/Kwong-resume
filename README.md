@@ -1,3 +1,3 @@
-Jarvis Kwong's resume
+# Jarvis Kwong's resume
 
-Check out the link in About
+Click the link in the About section
