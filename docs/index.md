@@ -35,14 +35,14 @@ Computer Science Major Student at Brigham Young University - Idaho.
 - Supported my result by making graph.
 
 `January 2023 - April 2023`
-**Finding Relationship in Baseball Data**,
+**Finding Relationship in Baseball Data**
 
 - Wrote an SQL query to create a new dataframe about baseball players who attended BYU-Idaho.
 - Calculated the batting average for players over their entire careers.
 - Compared teams by their total home runs by making graph in Altair to visualize the comparison.
 
 `January 2023 - April 2023`
-**Machine Learning Model**,
+**Machine Learning Model**
 
 - Created charts that evaluate potential relationships between the home in Denver.
 - Built a classification model labeling houses as being built before 1980.
