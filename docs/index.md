@@ -28,18 +28,25 @@ Computer Science Major Student at Brigham Young University - Idaho.
 ### Data Science Project
 
 `January 2023 - April 2023`
-**Imagine Learning**
+**Analysis Flights Data**
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
+- Fixed the missing data from the delayed flights data.
+- Used Python to analysis the flights data.
+- Supported my result by making graph.
 
 `January 2023 - April 2023`
-**Pinnacle Management Group**,
+**Finding Relationship in Baseball Data**,
 
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Wrote an SQL query to create a new dataframe about baseball players who attended BYU-Idaho.
+- Calculated the batting average for players over their entire careers.
+- Compared teams by their total home runs by making graph in Altair to visualize the comparison.
+
+`January 2023 - April 2023`
+**Machine Learning Model**,
+
+- Created charts that evaluate potential relationships between the home in Denver.
+- Built a classification model labeling houses as being built before 1980.
+- Described the quality of your classification model using different evaluation metrics.
 
 ## Service and Work History
 
