@@ -1,3 +1,3 @@
-Jaris Kwong's resume
+Jarvis Kwong's resume
 
-CLick the link in About
+Check out the link in About
